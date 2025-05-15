@@ -1,4 +1,6 @@
 ### IntelliJ IDEA ###
+.ideia/
+maratona-java.iml
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
