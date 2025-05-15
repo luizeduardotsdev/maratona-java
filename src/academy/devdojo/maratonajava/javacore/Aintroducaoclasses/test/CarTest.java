@@ -15,6 +15,7 @@ public class CarTest {
         car2.model = "Z4";
         car2.year = 2016;
 
+        // car1 = car2;
 
         System.out.println(car1.name);
         System.out.println(car1.model);
