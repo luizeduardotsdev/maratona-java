@@ -9,4 +9,8 @@ public class Calculator {
     public void subtractTwoNumbers(){
         System.out.println(21 - 2);
     }
+
+    public void multiplicateTwoNumbers(int num1, double num2){
+        System.out.println(num1 * num2);
+    }
 }
