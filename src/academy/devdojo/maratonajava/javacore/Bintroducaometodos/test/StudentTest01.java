@@ -13,7 +13,7 @@ public class StudentTest01 {
         student01.age = 22;
         student01.gender = 'M';
 
-        student02.name = "Sakura";
+        student02.name = "Nami";
         student02.age = 15;
         student02.gender = 'F';
 
