@@ -36,11 +36,11 @@ public class Calculator {
         System.out.println(num1 / num2);
     }
 
-    public void alternTwoNumbers(int num1, int num2){
-        num1 = 99;
-        num2 = 33;
+    public void alternTwoNumbers(int number1, int number2){
+        number1 = 99;
+        number2 = 33;
         System.out.println("Dentro do alternTwoNumbers");
-        System.out.println("Num1 " + num1);
-        System.out.println("Num2 " + num2);
+        System.out.println("Num1 " + number1);
+        System.out.println("Num2 " + number2);
     }
 }
